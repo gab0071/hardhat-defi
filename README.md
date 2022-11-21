@@ -4,20 +4,6 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 
 *[⌨️ (19:16:13) Lesson 13: Hardhat DeFi & Aave](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=69373s)*
 
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-
-- [Hardhat DeFi](#hardhat-defi)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-  - [Typescript](#typescript)
-    - [Optional Gitpod](#optional-gitpod)
-- [Usage](#usage)
-  - [Testing](#testing)
-- [Running on a testnet or mainnet](#running-on-a-testnet-or-mainnet)
-- [Linting](#linting)
-  - [Formatting](#formatting)
-- [Thank you!](#thank-you)
 
 # Getting Started
 
@@ -36,7 +22,7 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-defi-fcc
+git clone https://github.com/gab0071/hardhat-defi-fcc
 cd hardhat-defi-fcc
 yarn
 ```
